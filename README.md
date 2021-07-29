@@ -20,16 +20,12 @@ dataset) for pre-training containing 590,000 images is also proposed.
 
 ## Citation 
 
-@article{Wang:2020ug,
-author = {Wang, Zhihui and Liu, Chongwei and Wang, Shijie and Tang, Tao and Tao, Yulong and Yang, Caifei and Li, Haojie and Liu, Xing and Fan, Xin},
-title = {{UDD: An Underwater Open-sea Farm Object Detection Dataset for Underwater Robot Picking}},
-journal = {arXiv.org},
-year = {2020},
-eprint = {2003.01446v1},
-eprinttype = {arxiv},
-eprintclass = {cs.CV},
-month = mar,
-annote = {10 pages, 9 figures}
+@misc{liu2021new,
+      title={A New Dataset, Poisson GAN and AquaNet for Underwater Object Grabbing}, 
+      author={Chongwei Liu and Zhihui Wang and Shijie Wang and Tao Tang and Yulong Tao and Caifei Yang and Haojie Li and Xing Liu and Xin Fan},
+      year={2021},
+      eprint={2003.01446},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
-
 
