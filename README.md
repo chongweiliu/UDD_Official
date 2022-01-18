@@ -16,7 +16,7 @@ dataset) for pre-training containing 590,000 images is also proposed.
 ## Download
 
 * [BaiduYun](https://pan.baidu.com/s/1byq7wEID-OzLSJ8p5A6Z5g) Key : 2kse
-
+* [Google](https://drive.google.com/drive/folders/1vPc7bIeMR-zG1pgXP3NJSlFEiZbwgjH4?usp=sharing)
 
 ## Citation 
 
